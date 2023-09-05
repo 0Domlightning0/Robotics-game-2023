@@ -17,7 +17,7 @@ def bot(piece, level):
 #Variable assignment
     time_auto = 15
     time_tele = 132
-    load_time_low = rand
+    load_time_low = 3
     load_time_med = 8
     load_time_high = 11
     tele_pickup_time = 10
